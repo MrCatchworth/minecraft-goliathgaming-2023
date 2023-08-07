@@ -1,0 +1,11 @@
+name = "[1.9] GG 2023"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f5747ae5403f03b8bf0b3b7b71f77452f086d4a3e538aeeb0ceaabcb9f16452f"
+
+[versions]
+forge = "43.2.21"
+minecraft = "1.19.2"
