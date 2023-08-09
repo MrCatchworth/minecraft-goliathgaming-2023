@@ -469,11 +469,6 @@ hash = "5de5b0a1c5554b9f4232c499b7c4840aac15fa5df574ebf8bde263320e22498c"
 metafile = true
 
 [[files]]
-file = "mods/droplight.pw.toml"
-hash = "a040423937f1e0e822053a736da7618e3c200fe41f6d099f844028575701a094"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "7178ff9343de304a0b6a46bb26469b82ae90051f17ea4e5e547bbc86cbf7982f"
 metafile = true
