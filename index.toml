@@ -221,12 +221,24 @@ file = "config/patchouli-client.toml"
 hash = "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068"
 
 [[files]]
+file = "config/polymorph-integrations.toml"
+hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "0c8450cdcb608b63523d49d36a59532a904150746228aa239c1fb95bfbb16840"
 
 [[files]]
 file = "config/scuba_gear-common.toml"
 hash = "11b550edb00f8c3274f0b02e9e43ba17c8343dca4f07bdcfc695075d73203076"
+
+[[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "8a9d38ca6b3d5054984f03f4f97689c1d6bde5c2b84250095033d3122576fc2c"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "4fe5c2073c3a7a58c6388467b853347a09dffb9d67c2bd86bf57c9dcb3970bf2"
 
 [[files]]
 file = "config/silentgear-client.toml"
@@ -661,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/polylib.pw.toml"
 hash = "8563048e3a697e85591b18442d604a3e6f6460d8ca4244361cdc0c54a8e3dd16"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "b004022582a154f5d55c1b7660a4075f37962783dc20af8f046afe3bbc839171"
 metafile = true
 
 [[files]]
