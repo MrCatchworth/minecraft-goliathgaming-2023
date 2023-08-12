@@ -133,6 +133,10 @@ file = "config/forge-common.toml"
 hash = "a440d2a7ce939ef3c462475555a9a188263aebdbf13db600de3f01d9d312970c"
 
 [[files]]
+file = "config/ftbbackups2.json"
+hash = "54664ed5dc2848f1d7e084a9a20e57493a7e09f8e9f5260cbf959dd61ecc2f92"
+
+[[files]]
 file = "config/guardvillagers-client.toml"
 hash = "0ea610c7e94452b89315e117551af0cc98f7718bfc52dbfb19260f19953a81ba"
 
@@ -625,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/neat.pw.toml"
-hash = "0a05a79fe9dbd7557ebdbbeb7bdb09e12426062dcd5031a7217a74e868595573"
+hash = "88ad2710aa5bf4484b75c20f447f1f8de0c6a58c5b3afa144a6b79e22f6b57ef"
 metafile = true
 
 [[files]]
