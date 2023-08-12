@@ -713,11 +713,6 @@ hash = "e98f546ff82bf593a0b01f3ac40aa9ce00b87dd5e992fda04ff43ef736da49cf"
 metafile = true
 
 [[files]]
-file = "mods/simply-swords.pw.toml"
-hash = "4def11fa6fe8542cac24c72f3b122c6ea2731b230ae920bd501027e1f4c89dae"
-metafile = true
-
-[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "b933bc94d6ddd24c1dd26badefca4afe5714a42324de362a489f1f5465d2dccd"
 metafile = true
