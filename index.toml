@@ -549,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-borders.pw.toml"
-hash = "5058395fccad29007c60f07a7a4e96a8e054d32dc30e0686ce89919c6a14485e"
+hash = "05cb6fcade31d8f8c51af73eee464cedd9d8cb34b5fade180cd31aa224b465bc"
 metafile = true
 
 [[files]]
@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "6c5e1d646bee1575bd994996b4428e0fe16c6a0bfc0fbab5c6fa0c8c35547863"
+hash = "65847d25954b387800944c72231b44cf3eeb8ebc2f43238f39ccbd76cf9c6a4d"
 metafile = true
 
 [[files]]
@@ -735,11 +735,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "fe63673e3486fc57fb70116089db249ca2d25fea755bd00dd78e4dfba16d7f8c"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "f2911639cfd58f1f44df7835493555a5aea7a729413f1c5f6dae744136d4c782"
 metafile = true
 
 [[files]]
