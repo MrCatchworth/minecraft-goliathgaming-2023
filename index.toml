@@ -313,6 +313,10 @@ file = "config/terrablender.toml"
 hash = "59d79e8bc4a42e678196a7164e5841a9803f8684f1b52b9944ce554c9f353691"
 
 [[files]]
+file = "config/toastcontrol-common.toml"
+hash = "b0976505b1e84813c804b645fe0988fc1fc68bd1e0350db6cbc3fa2698d77587"
+
+[[files]]
 file = "config/trashslot-common.toml"
 hash = "5c911ebfca75b98b33276283b584fd204d0d98c763cf13ac1fd471199058c270"
 
@@ -675,6 +679,11 @@ hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "306cbb32a5e21015ea1e6e79f2175bff33213abd18af4403e4b9bc72adf4e28d"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "0a2eb7f0b4f837c580350b1105001f43a272ac15868d845cca544d5a5380494f"
 metafile = true
@@ -792,6 +801,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
 metafile = true
 
 [[files]]
