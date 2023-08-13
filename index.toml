@@ -29,6 +29,10 @@ file = "config/almostunified/unify.json"
 hash = "cc67ac8572a4c003494ef9638cd83a27f85401d5f48f51da960b5c66fcad02d0"
 
 [[files]]
+file = "config/appleskin-client.toml"
+hash = "b477c8c493b28366a6b282f29f46c9415e3a4a2a23fff6e09331644c435dfd48"
+
+[[files]]
 file = "config/aquaculture-common.toml"
 hash = "ba8f83a21789a7d360fc90a43804153385929c4e3d931a600a8bd94714f24c6c"
 
@@ -333,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "eee543d5df77eb92c79d0ee76ff4302fe7350d8283da2c7c05ef4c74edc294e7"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
 
 [[files]]
