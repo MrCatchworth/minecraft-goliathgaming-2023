@@ -229,6 +229,10 @@ file = "config/polymorph-integrations.toml"
 hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
 [[files]]
+file = "config/productivebees-client.toml"
+hash = "19ff008cca250867498bae5bb8e1322326f0e07da47ad5272611a2abbf44218b"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "0c8450cdcb608b63523d49d36a59532a904150746228aa239c1fb95bfbb16840"
 
@@ -701,6 +705,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "c79097b737bb6fdafbec02ebf933427f30efd635747957266a0dd785328ed3cc"
+metafile = true
+
+[[files]]
+file = "mods/productivebees.pw.toml"
+hash = "2837d634f0cda64b0a88c6e7e0c6b4aad58094cd6bd84966bd617bf015b2368e"
 metafile = true
 
 [[files]]
