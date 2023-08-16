@@ -313,10 +313,6 @@ file = "config/supplementaries-common.toml"
 hash = "2aa566eb24d01921215448b47f60aeef9432669edfb8acc1ec71d4da39b20f9a"
 
 [[files]]
-file = "config/tectonicbopconfig.toml"
-hash = "1e23232ed359cbc6fb7999a125fe86633d08d52e1f21fd86deddcef048fd79b7"
-
-[[files]]
 file = "config/terrablender.toml"
 hash = "59d79e8bc4a42e678196a7164e5841a9803f8684f1b52b9944ce554c9f353691"
 
