@@ -253,18 +253,6 @@ file = "config/sereneseasons/seasons.toml"
 hash = "4fe5c2073c3a7a58c6388467b853347a09dffb9d67c2bd86bf57c9dcb3970bf2"
 
 [[files]]
-file = "config/silentgear-client.toml"
-hash = "8ee773dd1d72dfa674663d4e8179ac3c2bae2d4bf2d97a2a403235b1a857a402"
-
-[[files]]
-file = "config/silentgear-common.toml"
-hash = "1400d66f96119b871feda566fbbbb2ed9118d3f49b1b9b07b3ff123838e053ad"
-
-[[files]]
-file = "config/silentgems-common.toml"
-hash = "f0a914fb446298828ab01457eb64f4b1fe36ab58d27abade4b593000683d6588"
-
-[[files]]
 file = "config/simplehats-client.toml"
 hash = "6defd38a42d02dac469841cf2f0f279f0af461ecfd16d68eeb9ec4f33c873c47"
 
@@ -820,21 +808,6 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
-metafile = true
-
-[[files]]
-file = "mods/silent-gear.pw.toml"
-hash = "1dc4160fc94b9969e0f23399a810ecbbaa368faa1522f6dd0bc4188fb6e350fe"
-metafile = true
-
-[[files]]
-file = "mods/silent-lib.pw.toml"
-hash = "743d371a6a151be50a6ad0c7c92c0887d62e3f0f2d640492dd445b9b299b2b93"
-metafile = true
-
-[[files]]
-file = "mods/silents-gems.pw.toml"
-hash = "e98f546ff82bf593a0b01f3ac40aa9ce00b87dd5e992fda04ff43ef736da49cf"
 metafile = true
 
 [[files]]
