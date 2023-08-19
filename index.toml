@@ -721,6 +721,11 @@ hash = "f09c42bc980637967c7885b1193efdbcd23f403ea051fab71a6407c1e8265d33"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "39f4bf26ebf5e0b985d1857dcd3f1fc4cc38093b08c2835a057e41e1a6aa21b3"
+metafile = true
+
+[[files]]
 file = "mods/neat.pw.toml"
 hash = "88ad2710aa5bf4484b75c20f447f1f8de0c6a58c5b3afa144a6b79e22f6b57ef"
 metafile = true
@@ -868,6 +873,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "239903854f201b23dfdc6cebd117f8d710db8796338ddaa02f42a4663f4e4db3"
 metafile = true
 
 [[files]]
