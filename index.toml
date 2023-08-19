@@ -551,6 +551,11 @@ hash = "89bf28ca15640301ff8cf651ccbcae3047cbaf6af30797f739bfa45d1f2299ce"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "121bfb7dba38eff5de393befb8a4cebcce60b3425fc41d2aa9d7cfe3b3bdd3b5"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
