@@ -333,6 +333,86 @@ file = "config/waystones-common.toml"
 hash = "73992ff5a806f9f29446d23cdd47a6b637a2688874584310bef97c34f675cf5d"
 
 [[files]]
+file = "defaultconfigs/chiselsandbits-server.toml"
+hash = "5b4928fa641c55722b3c44addadb675480fc0c5f71ef3064827bd366b53eb594"
+
+[[files]]
+file = "defaultconfigs/corpse-server.toml"
+hash = "09b9e4c7add97afd272feb9f7595228fca449d99d0996589da1b29c31c79d96a"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "ecdaac055b0c0e7501a96e6c412ec36cdf53e67c8c28cee0eaee104bd3d179e8"
+
+[[files]]
+file = "defaultconfigs/createcafe-server.toml"
+hash = "59e10ba9cb8d08447394ccf89f89c26dec622bda3e149c88b07aee1366d365ab"
+
+[[files]]
+file = "defaultconfigs/curios-server.toml"
+hash = "919c0b6d0078f4210eeccbfe0e8abea1bef0a253abd37c114424fb6968d10542"
+
+[[files]]
+file = "defaultconfigs/forge-server.toml"
+hash = "b25b0f5d49e3707fd282635c6bc2fbfd29af75a9b996d564e3a5013efdbd954c"
+
+[[files]]
+file = "defaultconfigs/inventorysorter-server.toml"
+hash = "ac5d6ce2db6a288ac7fad0be30857f5b01e1a5f3d6d4952ca56ecb958c64952f"
+
+[[files]]
+file = "defaultconfigs/jei-server.toml"
+hash = "56d2d8f8b8760fc2892ebf6523f17fa10836acfa5a276a96322d1a392aee2486"
+
+[[files]]
+file = "defaultconfigs/journeymap-server.toml"
+hash = "7711871843872e29af07d860a4a5cde0b481bec0531f1638f54c4bd96a9d1b5f"
+
+[[files]]
+file = "defaultconfigs/minecolonies-server.toml"
+hash = "0d3b3ab63ca4728e405386fc4f5f2bef125aa1440db76b27d2614dbd5e5776fc"
+
+[[files]]
+file = "defaultconfigs/occultism-server.toml"
+hash = "4f1afb4244d9e2e06f037a04dbc89b0586fd3234e8088800fb92d0fb72d1200f"
+
+[[files]]
+file = "defaultconfigs/pamhc2crops.toml"
+hash = "76fa6a40487ab0086d972b00820ce5bead229adddf63fd5879c78cfe16a48863"
+
+[[files]]
+file = "defaultconfigs/pamhc2trees.toml"
+hash = "d8d203aa6939fb29602b29d00b15f9e8ffe3b7c3db67077cc29c8472cce2e0b2"
+
+[[files]]
+file = "defaultconfigs/productivebees-server.toml"
+hash = "4a2399ad4960bf2121a1a4665850c5ff0ddd8697ab1252050961cdd1f5702c4a"
+
+[[files]]
+file = "defaultconfigs/sereneseasons-server.toml"
+hash = "b3f86f5a47b3880a7e734fd30044c3685d65ad99881363110fdc38a35f3c9c3e"
+
+[[files]]
+file = "defaultconfigs/solcarrot-server.toml"
+hash = "01f1cc684df618d6e9c9e9d8ca116a4d2ce81e92c0d60f64e87a73c4a578b346"
+
+[[files]]
+file = "defaultconfigs/sophisticatedbackpacks-server.toml"
+hash = "cfe5bad18ebcccf61a79158b326d89ede7ef1771604ae5acc7e3e4b03baf2054"
+
+[[files]]
+file = "defaultconfigs/sophisticatedcore-server.toml"
+hash = "74f7b3b6c684bf683c66dcb13a7fe17527102e97cfb0c943c06fa434ef3464a3"
+
+[[files]]
+file = "defaultconfigs/sophisticatedstorage-server.toml"
+hash = "ce4604fa48872952ddf643ae46e849cb83b9eb3851e02299767c2a6fc75ad61f"
+
+[[files]]
+file = "defaultconfigs/structurize-server.toml"
+hash = "0f32da1f707a99f8b584b072780011bef4d06c5e6c1cbc93f6b50a6c1530f71f"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
 metafile = true
