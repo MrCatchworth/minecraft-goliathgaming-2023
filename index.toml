@@ -571,6 +571,11 @@ hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
 metafile = true
 
 [[files]]
+file = "mods/doggy-talents-next.pw.toml"
+hash = "888d5cb75df5b954e088941e1b0f748afc53ee3f9bddb282432c7abf2e03c203"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "5de5b0a1c5554b9f4232c499b7c4840aac15fa5df574ebf8bde263320e22498c"
 metafile = true
