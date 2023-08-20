@@ -576,6 +576,11 @@ hash = "5de5b0a1c5554b9f4232c499b7c4840aac15fa5df574ebf8bde263320e22498c"
 metafile = true
 
 [[files]]
+file = "mods/easier-sleeping.pw.toml"
+hash = "38583840dfcba1846ba272850baa63c4060ba53b679f7bafc782f63cf3b10720"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "7178ff9343de304a0b6a46bb26469b82ae90051f17ea4e5e547bbc86cbf7982f"
 metafile = true
