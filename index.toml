@@ -861,11 +861,6 @@ hash = "b1661fd8e4bc9a49aa8412a549a2bf36f43803eef3fdac4dbab629ab211ba088"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-storage.pw.toml"
-hash = "fe63673e3486fc57fb70116089db249ca2d25fea755bd00dd78e4dfba16d7f8c"
-metafile = true
-
-[[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "6d7c5048a2c500d8c6198aaf1f9f0673f7a8621763b2704d0b3e7563fe25768b"
 metafile = true
