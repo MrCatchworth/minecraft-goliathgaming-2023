@@ -641,6 +641,11 @@ hash = "b4c5e69b76f678de505c031446701a160ffe553f1c91ffb6c9631c2a0413b605"
 metafile = true
 
 [[files]]
+file = "mods/hexerei.pw.toml"
+hash = "b4b6f5273674c7cb8bc0fd188c5f702ee7fcf81812dcf233bbd4edf56a28e3c3"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a6948aa62e696ca98923b6e97750f0321284a4810ba06ba6c726ce598af31321"
 metafile = true
