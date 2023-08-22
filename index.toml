@@ -446,6 +446,11 @@ hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
 metafile = true
 
 [[files]]
+file = "mods/bamboo-everything.pw.toml"
+hash = "2444009e99228fb3d709b38ab4521c4fe177df2c91d9097c83d20d5844b2d3c4"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "d703869d986cb0e9f945436d47627906c79ca25c83bd6369d4eb2114a22f876a"
 metafile = true
