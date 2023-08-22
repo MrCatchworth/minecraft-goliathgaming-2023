@@ -496,6 +496,11 @@ hash = "c324a6791dbb090123f20d2d870e2beaa0d15df69ac3596b19422f3bedff7869"
 metafile = true
 
 [[files]]
+file = "mods/choicetheorems-overhauled-village.pw.toml"
+hash = "4ee4b7abc4bebd0d3c9a94a0ae0de701d334d48d6a18ca23fd2bc4655699986d"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
 metafile = true
@@ -1003,4 +1008,19 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "b56fa96279e7dc53ff64a06c4114fda4f5f5ccf0b28f0e0d1ecc0a0e4a0d4f42"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ctov-farmer-delight-compat.pw.toml"
+hash = "dff6a093981d7b9566ed98ae76432f5bad3a306a1480b15fe33cd4beb5cd3ced"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ctov-paragliders-compat.pw.toml"
+hash = "373a514d86591ce036efce1da82f7f39569aa90835eda05ba65df75cd5a06b50"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ctov-waystone-compat.pw.toml"
+hash = "42c3de2743befcf41c8e9bff362a031faa379433d7ad18510ce846214224a83b"
 metafile = true

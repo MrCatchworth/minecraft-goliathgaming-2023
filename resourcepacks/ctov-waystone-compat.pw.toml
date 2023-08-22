@@ -1,0 +1,13 @@
+name = "CTOV - Waystone Compatibility pack"
+filename = "ctov-waystone-add-on-v1-0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9917bf01c8ece99ea4253c99ce1786a67144f14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4112745
+project-id = 711916
