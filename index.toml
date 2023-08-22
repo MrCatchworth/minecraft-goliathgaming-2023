@@ -986,11 +986,6 @@ hash = "8ff48d18f2fbe8df674dcd79aabcece27808667c270401b06ac10c97d7552990"
 metafile = true
 
 [[files]]
-file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "2c5ce6f2fbe42a251b6925493b4d5e4f84cd1bbb2f6942f4da8dad9aa60be63c"
-metafile = true
-
-[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "5fdd47d0a8d2da612f4661b5043694f5b6d92754d603816d1ad9de4d6d13022b"
 metafile = true
@@ -1018,19 +1013,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "b56fa96279e7dc53ff64a06c4114fda4f5f5ccf0b28f0e0d1ecc0a0e4a0d4f42"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ctov-farmer-delight-compat.pw.toml"
-hash = "dff6a093981d7b9566ed98ae76432f5bad3a306a1480b15fe33cd4beb5cd3ced"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ctov-paragliders-compat.pw.toml"
-hash = "373a514d86591ce036efce1da82f7f39569aa90835eda05ba65df75cd5a06b50"
-metafile = true
-
-[[files]]
-file = "resourcepacks/ctov-waystone-compat.pw.toml"
-hash = "42c3de2743befcf41c8e9bff362a031faa379433d7ad18510ce846214224a83b"
 metafile = true
