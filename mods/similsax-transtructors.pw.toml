@@ -1,0 +1,13 @@
+name = "Similsax Transtructors  - Builder's Wands"
+filename = "similsaxtranstructors-1.19-1.0.24.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d82f301b207ef226ac87c65c556cbf455d27b28"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3873895
+project-id = 233659

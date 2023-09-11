@@ -257,6 +257,10 @@ file = "config/sereneseasons/seasons.toml"
 hash = "4fe5c2073c3a7a58c6388467b853347a09dffb9d67c2bd86bf57c9dcb3970bf2"
 
 [[files]]
+file = "config/similsaxtranstructors.toml"
+hash = "5f437672d13bcb5cf7c194d49416378a47a5f547dcd30591dd0f966d18c8db7b"
+
+[[files]]
 file = "config/simplehats-client.toml"
 hash = "6defd38a42d02dac469841cf2f0f279f0af461ecfd16d68eeb9ec4f33c873c47"
 
@@ -921,6 +925,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
+metafile = true
+
+[[files]]
+file = "mods/similsax-transtructors.pw.toml"
+hash = "8818d8be946f2178d77870142b41119d0935e688745b14b924606bf488948c97"
 metafile = true
 
 [[files]]
