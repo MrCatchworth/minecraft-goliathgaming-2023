@@ -489,6 +489,11 @@ hash = "a88250ec382bd3aa224e11b803500a56d84b2c103f56834ef7ecb6eab938c24f"
 metafile = true
 
 [[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "a8b9b470a86ac23496164ccaea192c8ff17aa4decbe667bd56fc0fcd0b3e4e6a"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "f7e82243bf2ed1195204aed926e14c73a78e51d78d58528753c4ad6a3383fd6d"
 metafile = true
