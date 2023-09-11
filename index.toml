@@ -313,6 +313,14 @@ file = "config/terrablender.toml"
 hash = "59d79e8bc4a42e678196a7164e5841a9803f8684f1b52b9944ce554c9f353691"
 
 [[files]]
+file = "config/thermal-client.toml"
+hash = "a6a09cfe3859942830c9813563a688d745e2bdeb81a727a3b958ab231c755ba3"
+
+[[files]]
+file = "config/thermal_integration-common.toml"
+hash = "1068fbaff35f8b542f3e6eea10fae808e2120d5121bf1932e5c0948a5fe96f39"
+
+[[files]]
 file = "config/toastcontrol-common.toml"
 hash = "b0976505b1e84813c804b645fe0988fc1fc68bd1e0350db6cbc3fa2698d77587"
 
@@ -411,6 +419,10 @@ hash = "ce4604fa48872952ddf643ae46e849cb83b9eb3851e02299767c2a6fc75ad61f"
 [[files]]
 file = "defaultconfigs/structurize-server.toml"
 hash = "0f32da1f707a99f8b584b072780011bef4d06c5e6c1cbc93f6b50a6c1530f71f"
+
+[[files]]
+file = "defaultconfigs/thermal-server.toml"
+hash = "f98e98aa4bbf5d2295a697bb411d6799db34ac8de30bd88ef401533f5b539bf6"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
