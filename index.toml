@@ -77,6 +77,10 @@ file = "config/collective.json5"
 hash = "600046b205e20aa3a2ff5af8a66a202c00a97b1c27a6c0675211dbe11d4c0b5f"
 
 [[files]]
+file = "config/constructionwand-client.toml"
+hash = "49dab16d69ef53b3846431d403918762dc0b22a4efba307c80894eeec64a1118"
+
+[[files]]
 file = "config/cookingforblockheads-common.toml"
 hash = "c4e88abc346f2e4f466726c1ab1aa2b6d1aa70fd99e8ba64e1de9ca8273d7d4e"
 
@@ -325,6 +329,10 @@ file = "defaultconfigs/chiselsandbits-server.toml"
 hash = "5b4928fa641c55722b3c44addadb675480fc0c5f71ef3064827bd366b53eb594"
 
 [[files]]
+file = "defaultconfigs/constructionwand-server.toml"
+hash = "8bfbd4c0283ab896479590f1c9d2203494c72e6742a5de00ee8cd24ae7703031"
+
+[[files]]
 file = "defaultconfigs/corpse-server.toml"
 hash = "09b9e4c7add97afd272feb9f7595228fca449d99d0996589da1b29c31c79d96a"
 
@@ -538,6 +546,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "ea50ffe105662eb20c7cdcad6c4a2f5643813716391649f2e134db94a6bb2e31"
 metafile = true
 
 [[files]]
