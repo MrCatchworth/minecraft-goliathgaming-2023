@@ -101,6 +101,10 @@ file = "config/createcafe-common.toml"
 hash = "a83abfb7e69cfca1d8c3174813cfe020207f42853ad926f1baadad9f3b16d418"
 
 [[files]]
+file = "config/creeperconfetti-common.toml"
+hash = "caab83270f8493111ee54f4493f08905bb672b14e7543041e7d007af660c213e"
+
+[[files]]
 file = "config/curios-client.toml"
 hash = "9c0985b85e67e704a3640d028186dc0b220fa69404b9555244add55eaf5d4794"
 
@@ -617,6 +621,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "121bfb7dba38eff5de393befb8a4cebcce60b3425fc41d2aa9d7cfe3b3bdd3b5"
+metafile = true
+
+[[files]]
+file = "mods/creeper-confetti.pw.toml"
+hash = "7a9e6195d78f3d2edd8abf10ef3c424521790b6e8eb02e40e5c4b9970a87e13c"
 metafile = true
 
 [[files]]
