@@ -1,13 +1,13 @@
-name = "Italian Delight (A Farmer's Delight Add-on)"
-filename = "ItalianDelight-1.19.2 1.5-MAR_FIX.jar"
+name = "Italian's Delight"
+filename = "italiandelight-1.19.2-2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "29e4f46e1f3abe32c5400a5255c68bf245b47532"
+hash = "85d4ad67006c1ff3b18b444277c4e3826aa77135"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4480646
+file-id = 5187510
 project-id = 669167
