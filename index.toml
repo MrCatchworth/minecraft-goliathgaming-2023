@@ -469,6 +469,11 @@ hash = "a3731b91b03b217bf16408a1a51a122e47d9902ac1408a0154d7631e5c3d4304"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
 metafile = true
@@ -609,11 +614,6 @@ hash = "7f98e3461e1319ef01a91a8258aa2d932179d0406280d980b356ddbfbef52213"
 metafile = true
 
 [[files]]
-file = "mods/create-factory.pw.toml"
-hash = "e0b11f720b84ea86bdcd06aa8fc6a31b651f704abcefd3992f55eeb77e5caa47"
-metafile = true
-
-[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "e357fc625123177d04155eb3edf66a42cc8524aa86410dbb09e857ce036a074b"
 metafile = true
@@ -679,6 +679,11 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
+file = "mods/flib.pw.toml"
+hash = "aaaae1c159be64f990d869e13bc75bc237d3850d2f3c42472b3b842670651697"
+metafile = true
+
+[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
 metafile = true
@@ -741,11 +746,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
-metafile = true
-
-[[files]]
-file = "mods/italian-delights-add-on-for-farmers-delight.pw.toml"
-hash = "36aeab7d6591f87d1905a6d5141e2dd92d065e80d1f7121dd92f15d30580490e"
 metafile = true
 
 [[files]]
@@ -944,6 +944,11 @@ hash = "e353caf047b1592faa8819c667651e9666d2939347fb669e6fd09d77847a0194"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "085cf9d7f9823cec6fb7c9369fcfc22485a0bd2d810a7e2bac0ad8ba7c8f773e"
 metafile = true
@@ -1029,11 +1034,6 @@ hash = "aad2682b1c54883c1a48e288782281b694c4ce1c630ddbfdad11ee2429562fbe"
 metafile = true
 
 [[files]]
-file = "mods/tetratic-combat.pw.toml"
-hash = "66c81f7d0dd4746c008dfcd4fd62b528bf3ff202b5f3e9012790e0bf05a1b620"
-metafile = true
-
-[[files]]
 file = "mods/thermal-dynamics.pw.toml"
 hash = "280fc16d8cbed28aff6aef45470a22b55cd64394f87eb6f59ce640e70fa27399"
 metafile = true
@@ -1096,4 +1096,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "8046bfec2206ca605e19cf458ba78d916ce3fafa1ccd9ff07ce0712a45a4063d"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "e02a4197368c4925bb98658883da17aace29927eeca7773c494be6c879269268"
 metafile = true
