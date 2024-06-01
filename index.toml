@@ -664,6 +664,11 @@ hash = "0bf7b07a3c3a7f5220f6a30c07a8ca0fcf51927553a5fa4f73d39e5ef07a440e"
 metafile = true
 
 [[files]]
+file = "mods/environmental-creepers.pw.toml"
+hash = "56a6e604111b4f5d46e1015a2397260b7580f4bfc64bbf4de034caf2466d8300"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
 metafile = true
