@@ -869,6 +869,11 @@ hash = "88ad2710aa5bf4484b75c20f447f1f8de0c6a58c5b3afa144a6b79e22f6b57ef"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "7942da454d725373481664c245954c24764d26317968c8c4473743e5f54bbf1d"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "e5058f16ab98ad6611dbc3acf61cfd472e563593d5943a7f3006c2c28afc00d1"
 metafile = true
