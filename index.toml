@@ -246,7 +246,7 @@ hash = "19ff008cca250867498bae5bb8e1322326f0e07da47ad5272611a2abbf44218b"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "f1fa354f799a2fac0b8ac2fb3a49336e71a94430f0b09226f0bd43e049c0ae3f"
+hash = "0c8450cdcb608b63523d49d36a59532a904150746228aa239c1fb95bfbb16840"
 
 [[files]]
 file = "config/scuba_gear-common.toml"
