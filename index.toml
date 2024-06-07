@@ -246,7 +246,7 @@ hash = "19ff008cca250867498bae5bb8e1322326f0e07da47ad5272611a2abbf44218b"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "0c8450cdcb608b63523d49d36a59532a904150746228aa239c1fb95bfbb16840"
+hash = "f1fa354f799a2fac0b8ac2fb3a49336e71a94430f0b09226f0bd43e049c0ae3f"
 
 [[files]]
 file = "config/scuba_gear-common.toml"
@@ -496,11 +496,6 @@ metafile = true
 [[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "a8b9b470a86ac23496164ccaea192c8ff17aa4decbe667bd56fc0fcd0b3e4e6a"
-metafile = true
-
-[[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "c8e7c5ac6a6ff113e87d004e59406a05d5571a85e17f0972b324f54f7b3f3ef2"
 metafile = true
 
 [[files]]
@@ -824,11 +819,6 @@ hash = "a772503d6306277e545699374c12511114cb0d4e8bf0ee81f4c4d33f2d1167c8"
 metafile = true
 
 [[files]]
-file = "mods/macaws-furnitures-biomes-o-plenty.pw.toml"
-hash = "61ae5229c809a2f8c41b675d4e576169777dce867d6ac1ee5c5c17eb630116d6"
-metafile = true
-
-[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "88fc659d250d5131afb4ddb0a7ea6a39808295833173ee51dc3887e821e1faf5"
 metafile = true
@@ -1031,6 +1021,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "354bbfa82fb4018eb6d6d4b9c5a4846161dcd073e85010c936d3d96e454ece5c"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "e459f168965ca78be829822f4093d36a0107209f4993c7743e33b2a6e8abb894"
 metafile = true
 
 [[files]]
