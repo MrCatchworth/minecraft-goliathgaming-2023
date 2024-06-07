@@ -559,6 +559,11 @@ hash = "de9399eb76a32d908f3bab54e96a551ebeda008ec671939ed9a8052c1db3aa30"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "f02ecd33a86b983cc05b4aa83d1c483bef947701b8a9938765547f47d660148c"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "09796a48f3857c1f41280849c100baff40631035f64e79d494b2a0538a7676fb"
 metafile = true
@@ -686,11 +691,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
-metafile = true
-
-[[files]]
-file = "mods/flywheel.pw.toml"
-hash = "3e9b9722da123b1d4120f0d9aba8de9968aba4aad6e9c7564423672171e00d9e"
 metafile = true
 
 [[files]]
