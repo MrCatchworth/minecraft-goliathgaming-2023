@@ -759,11 +759,6 @@ hash = "b278c5bbfd28feeb69a54f3bd9ad1693e77f348dc7b9727888d6334f94997bae"
 metafile = true
 
 [[files]]
-file = "mods/italian-delights-add-on-for-farmers-delight.pw.toml"
-hash = "36aeab7d6591f87d1905a6d5141e2dd92d065e80d1f7121dd92f15d30580490e"
-metafile = true
-
-[[files]]
 file = "mods/item-borders.pw.toml"
 hash = "05cb6fcade31d8f8c51af73eee464cedd9d8cb34b5fade180cd31aa224b465bc"
 metafile = true
