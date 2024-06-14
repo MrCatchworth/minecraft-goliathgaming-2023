@@ -909,6 +909,11 @@ hash = "248562f7717f02d954ea1b73c03033a666db6f5c9156f331cb0287869626d6da"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "3ff8c8b3282ec0c0a4ce16853acf5b7dd23297d4b557b280668b459739c709d0"
+metafile = true
+
+[[files]]
 file = "mods/scuba-gear.pw.toml"
 hash = "7d66190244f69515e64785e9e0ee542e94f470da29e62c08aa275262f34b8d4a"
 metafile = true
