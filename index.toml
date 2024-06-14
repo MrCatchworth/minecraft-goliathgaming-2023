@@ -734,6 +734,11 @@ hash = "b278c5bbfd28feeb69a54f3bd9ad1693e77f348dc7b9727888d6334f94997bae"
 metafile = true
 
 [[files]]
+file = "mods/iron-jetpacks.pw.toml"
+hash = "95e73834b1c61b51425635eeef20ad88e2abc4420919d3c67f8b78e139b48a4c"
+metafile = true
+
+[[files]]
 file = "mods/item-borders.pw.toml"
 hash = "05cb6fcade31d8f8c51af73eee464cedd9d8cb34b5fade180cd31aa224b465bc"
 metafile = true
