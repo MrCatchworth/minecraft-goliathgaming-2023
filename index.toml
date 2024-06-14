@@ -529,11 +529,6 @@ hash = "48657db6031c875c4ec2a64100e4181f1e6d01ba5997abe4af507618ace854d1"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "c6545c6b2f4ccafc9d611b4ee438623a2ccf4f830674eed92ad6fed608cbf219"
-metafile = true
-
-[[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "370d1a19b0814e8c9a4d534380b9a8e8083001adb010c500da37bba0615e8081"
 metafile = true
@@ -644,6 +639,11 @@ hash = "fc5f6ed8b94d805cc915c961b75afb8dbf8bd04cd7d0e2efaa1c58e6a2085aef"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "b36ea5793e2620a309e996527dc3373dda38eaca7646130a67e63eba370e9715"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "4de1820ba124b4c7e86396baf68401fc7355c0c78fd861ccbed0971aced2a711"
 metafile = true
@@ -669,11 +669,6 @@ hash = "42d204e4de3abe587ff8e7ff3041d85204ed45e7ea8c1e4251b3a0eddd7e23ac"
 metafile = true
 
 [[files]]
-file = "mods/easier-sleeping.pw.toml"
-hash = "38583840dfcba1846ba272850baa63c4060ba53b679f7bafc782f63cf3b10720"
-metafile = true
-
-[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "e9d6fa02d9b312fb800706377d2dec874230c670239cbb439130989c8d8f36db"
 metafile = true
@@ -691,26 +686,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
-metafile = true
-
-[[files]]
-file = "mods/ftb-backups-2.pw.toml"
-hash = "caa049095bd56333c793b47d4cd47f10891630a26151caf72a91f983e1ef0c33"
-metafile = true
-
-[[files]]
-file = "mods/ftb-chunks-forge.pw.toml"
-hash = "236e756b439335effde72db4bcedc98456b0ce2baa6090abc2a5406ef5daef9a"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-forge.pw.toml"
-hash = "879813604dd833f793d6d362c6b8a13ce35bf41da13d921b1e4e6c67813ceace"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-forge.pw.toml"
-hash = "c0405f2f156703f6c5a181c18e96dfdbad8760c04ff3be8c088853c7b14572df"
 metafile = true
 
 [[files]]
@@ -804,11 +779,6 @@ hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
 
 [[files]]
-file = "mods/lootr.pw.toml"
-hash = "8aea5cb3f20c40711a36a9a25cc58b3ff5315eea9ff3995bd522acab40a18511"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "1853f638e30c454512d50bb7d176608b3f0e51d1b58869deed51aa7f29b112a1"
 metafile = true
@@ -864,11 +834,6 @@ hash = "7942da454d725373481664c245954c24764d26317968c8c4473743e5f54bbf1d"
 metafile = true
 
 [[files]]
-file = "mods/occultism.pw.toml"
-hash = "e5058f16ab98ad6611dbc3acf61cfd472e563593d5943a7f3006c2c28afc00d1"
-metafile = true
-
-[[files]]
 file = "mods/pams-harvestcraft-2-crops.pw.toml"
 hash = "163fe70e260b40aca45d2aed419ffc703a6337c840da4cf514fa2768834626d0"
 metafile = true
@@ -886,11 +851,6 @@ metafile = true
 [[files]]
 file = "mods/pams-harvestcraft-2-trees.pw.toml"
 hash = "3756509ad06b33d670010545d935058a9ac83cd941a604446899828c1f561410"
-metafile = true
-
-[[files]]
-file = "mods/paragliders.pw.toml"
-hash = "14f2b768e36c2d01698ebe5512f1045827ec673340b0e62525079ced1f1b4f15"
 metafile = true
 
 [[files]]
@@ -1091,11 +1051,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "0136dbc530293d8074c4a128fd468acd6d0047e01ba717db9fce876e551cd6b0"
-metafile = true
-
-[[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "69c5bf23bb8e3e16e18d7bf1861dc2475a35ccec36a93c11c01e18efa7a4ab42"
 metafile = true
 
 [[files]]
